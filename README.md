@@ -1,4 +1,4 @@
-# 👋 Hola, soy Heriberto
+# 👋 Hola, Soy Heribeck
 
 Desarrollador web autodidacta desde Venezuela 🇻🇪.
 Construyo aplicaciones web con **JavaScript, TypeScript y React**, y me gusta aprender haciendo: convertir ideas en proyectos reales.
