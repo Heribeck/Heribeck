@@ -33,7 +33,7 @@ Centro web donde jugar trivias y usar herramientas para fans de Pokémon, todo e
 - 🔎 Me mueve una gran curiosidad por la tecnología: siempre estoy aprendiendo algo nuevo y probando cómo funcionan las cosas.
 - 🗣️ Idiomas: español (nativo) e inglés (básico).
 - 📍 Venezuela
-- 
+
 ---
 
 ## 🤝 ¿Quieres colaborar?
