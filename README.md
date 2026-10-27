@@ -29,11 +29,11 @@ Centro web donde jugar trivias y usar herramientas para fans de Pokémon, todo e
 
 ## 🌎 Sobre mí
 
-- 💻 Paso gran parte de mi tiempo programando y creando proyectos propios.
-- 💬 Tengo 3 años de experiencia moderando comunidades en línea (Telegram y Discord).
+- 💻 Tengo una habilidad natural para la computación y paso gran parte de mi tiempo programando y creando proyectos propios.
+- 🔎 Me mueve una gran curiosidad por la tecnología: siempre estoy aprendiendo algo nuevo y probando cómo funcionan las cosas.
 - 🗣️ Idiomas: español (nativo) e inglés (básico).
 - 📍 Venezuela
-
+- 
 ---
 
 ## 🤝 ¿Quieres colaborar?
