@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hola, soy Heriberto
 
-<!--
-**Heribeck/Heribeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web autodidacta desde Venezuela 🇻🇪.
+Construyo aplicaciones web con **JavaScript, TypeScript y React**, y me gusta aprender haciendo: convertir ideas en proyectos reales.
 
-Here are some ideas to get you started:
+🌐 **Sitio web personal:** [Heribeck X.](https://heribeck.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 🚀 Proyectos
+
+> Mis repositorios son privados. Si quieres conocer más o colaborar, escríbeme (datos abajo).
+
+### 💰 Skilme
+App web de finanzas personales para llevar el control del dinero de forma simple y ordenada.
+
+### 🎮 Pokebeck Hub
+Centro web donde jugar trivias y usar herramientas para fans de Pokémon, todo en un solo lugar.
+
+---
+
+## 🌎 Sobre mí
+
+- 💻 Paso gran parte de mi tiempo programando y creando proyectos propios.
+- 💬 Tengo 3 años de experiencia moderando comunidades en línea (Telegram y Discord).
+- 🗣️ Idiomas: español (nativo) e inglés (básico).
+- 📍 Venezuela
+
+---
+
+## 🤝 ¿Quieres colaborar?
+
+Estoy abierto a colaborar en proyectos. Puedes contactarme por:
+
+- 📨 **Telegram:** [@XALIBURZ](https://t.me/XALIBURZ)
+- ✉️ **Correo:** [araguache2005@gmail.com](mailto:araguache2005@gmail.com)
